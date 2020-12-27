@@ -4,17 +4,17 @@ This is my personal website where you'll find a variety of content that I care e
 
 ## A *very* brief autobiography
 
-:girl: she/her/hers
+:girl: Him/His
 
 :house: Fort Lauderdale, Florida
 
-:round_pushpin: Cambridge, MA
+:round_pushpin: Gainesville,FL
 
-:mortar_board: Statistics & Computer Science secondary @ Harvard
+:mortar_board: Computer Engineering @ UF
 
 :round_pushpin: Seattle, WA
 
-:briefcase: Finance @ Microsoft
+:briefcase: Associate Strategy Consultant @ Siemens
 
 
 
