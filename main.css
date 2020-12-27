@@ -1,0 +1,67 @@
+body {
+  font-family: 'Merriweather', 'PT Serif', Georgia, 'Times New Roman', serif;
+  font-weight: lighter;
+}
+
+h1 {
+  font-weight: 600;
+  margin-top: auto;
+}
+
+h2, h3, h4, h5, h6 {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+  font-weight: 600;
+}
+
+nav, footer {
+  width: 100%;
+  text-align: center;
+  padding: 0px;
+  display: inline-block;
+  padding: 0 1%;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+nav ul {
+  padding: 0px;
+}
+
+nav li {
+  display: inline-block;
+  padding: 0 1%;
+}
+
+.menu {
+  font-weight: normal;
+}
+
+a[href^='mailto\:']::before {
+    content: '';
+}
+
+blockquote {
+  border-left-color: rgba(3, 147, 3, 1);
+}
+
+code {
+  padding: 3px;
+  font-size: 12px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  font-weight: bold;
+  text-decoration: none;
+}
